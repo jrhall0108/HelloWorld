@@ -22,7 +22,7 @@ namespace HelloWorldApiUnitTests
             Assert.AreEqual(expectedResult, message);
         }
 
-        
+
         [TestMethod]
         public void MobileAppMsgProvider()
         {
@@ -51,3 +51,4 @@ namespace HelloWorldApiUnitTests
         }
     }
 }
+
